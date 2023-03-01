@@ -2,7 +2,7 @@
 From tomcat:latest
 
 # Maintainer
-MAINTAINER "AnnieBesant" 
+MAINTAINER "anniebesantb" 
 
 # copy war file on to container 
 COPY ./webapp.war /usr/local/tomcat/webapps
